@@ -1,5 +1,5 @@
 body{
-    background:black;
+    background: #F2EAD0;
     font-family: Georgia, 'Times New Roman', Times, serif; 
 }
 
@@ -7,19 +7,24 @@ body{
     display: flex;
     padding: 10px;
     margin: 10px;
-    background: gray;
+    background: #A68D77;
 }
 
 .assignment img{
     width: 200px;
-    padding: 10px ;
+    border: 2px solid #734D2D;
+    margin-right: 20px ;
 }
 
 h1{
-    color:white;
+    color:#261D1A;
     text-align: center;
 }
 
 p{
-    color: white;
+    color: #594936;
+}
+a{
+    text-decoration: none;
+    color: #4C6173;
 }
